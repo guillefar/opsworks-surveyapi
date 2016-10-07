@@ -16,7 +16,7 @@ depends 'apt'
 depends 'homebrew'
 depends 'nodejs'
 depends 'git'
-
+depends 'nodejs-app'
 
 
 
